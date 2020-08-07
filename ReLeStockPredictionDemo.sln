@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "re_le_stock_prediction_demo", "re_le_stock_prediction_demo\re_le_stock_prediction_demo.pyproj", "{5C4FD5A7-B166-4A69-9F1C-6CE5A8039D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4FD5A7-B166-4A69-9F1C-6CE5A8039D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4FD5A7-B166-4A69-9F1C-6CE5A8039D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {715E639F-5C13-4ACA-B4ED-DF08B7E8AAEC}
+	EndGlobalSection
+EndGlobal
